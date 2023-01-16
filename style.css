@@ -1,0 +1,33 @@
+.head-colour {
+    color: white
+}
+
+.header {
+    overflow: hidden;
+    background-color: #ffffffc9;
+    padding: 20px 10px;
+  }
+
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+  }
+
+  .header a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+
+  img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
